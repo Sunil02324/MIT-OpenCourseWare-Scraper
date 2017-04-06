@@ -13,7 +13,7 @@ You can start the script by running `python script.py`
 
 Below is the output of the script :
 
-<img class="image" src="http:suniltatipelly.in/assets/images/posts/mit1.png" alt="Alt Text" style="display:block;margin:0 auto;">
+<img  src="http://suniltatipelly.in/assets/images/posts/mit1.png">
 
 
 You can mail me at <a href="mailto:sunil@suniltatipelly.in">sunil@suniltatipelly.in</a> for any queries or doubts regarding this.
